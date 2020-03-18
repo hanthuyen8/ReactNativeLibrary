@@ -1,0 +1,3 @@
+[submodule "Assets/com.dtpo.reactnative/ReactNativeLibrary"]
+	path = Assets/com.dtpo.reactnative/ReactNativeLibrary
+	url = https://github.com/hanthuyen8/ReactNativeLibrary
