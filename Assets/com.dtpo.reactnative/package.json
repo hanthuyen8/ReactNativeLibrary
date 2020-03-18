@@ -1,0 +1,17 @@
+{
+    "name": "com.dtpo.reactnative",
+    "version": "0.1",
+    "displayName": "React Native Comm",
+    "description": "Hỗ trợ giao tiếp với React Native",
+    "unity": "2019.3",
+    "unityRelease": "3f1",
+    "author": {
+        "name": "Nhan Nguyen",
+        "email": "nhanc18@gmail.com",
+        "url": "https://github.com/hanthuyen8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hanthuyen8/ReactNativeLibrary.git"
+    }
+}
